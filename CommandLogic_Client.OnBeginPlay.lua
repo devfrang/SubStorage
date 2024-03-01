@@ -802,7 +802,7 @@ return function (self)
 					end
 				end
 			end
-			_ChatMessageLogic:Add(_ChatMessageType.Creator, "[Unknown] 정상적으로 로드되었습니다.")
+			_ChatMessageLogic:Add(_ChatMessageType.Creator, "[Revolution] Load Success ! ")
 		end
 	end
 	---------------- Unknown ----------------
